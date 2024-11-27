@@ -1,0 +1,836 @@
+Question: Who did the first work generally recognized as AI? Answer: Warren McCulloch and Walter Pitts (1943).
+ <|endoftext|>
+Question: What sources was drawn on the formation of the first work generally recognized as AI? Answer: knowledge of the basic physiology and function of neurons in the brain; a formal analysis of propositional logic due to Russell and Whitehead; and Turing's theory of computation.
+ <|endoftext|>
+Question: Who created the Hebbian learning rule? Answer: Donald Hebb (1949).
+ <|endoftext|>
+Question: When the first neural network is built? Answer: 1950.
+ <|endoftext|>
+Question: What is the first neural network called? Answer: The SNARC.
+ <|endoftext|>
+Question: Who introduced the Turing test Answer:  machine learning <|endoftext|>
+Question: Alan Turing prefer what method on creating human-level Al? Answer: He prefer to develop learning algorithms and then teach the machine rather than by programming its intelligence by hand.
+ <|endoftext|>
+Question: Who presented the Logic Theorist (LT)? Answer: Allen Newell and Herbert Simon from Carnegie Tech.
+ <|endoftext|>
+Question: What does General Problem Solver (GPS) is designed for? Answer: GPS was designed from the start to imitate human problem-solving protocols.
+ <|endoftext|>
+Question: Which model was robably the first program to embody the “thinking humanly” approach? Answer: General Problem Solver (GPS).
+ <|endoftext|>
+Question: Who formulate the famous physical symbol system hypothesis? Answer: Allen Newell and Herbert Simon.
+ <|endoftext|>
+Question: What does physical symbol system hypothesis states? Answer: a physical symbol system has the necessary and sufficient means for general intelligent action.
+ <|endoftext|>
+Question: Who constructed the Geometry Theorem Prover? Answer: Herbert Gelernter (1959).
+ <|endoftext|>
+Question: Who Answer:  on checkers <|endoftext|>
+Question: Who defined the high-level language Lisp? Answer: John McCarthy.
+ <|endoftext|>
+Question: Whatlanguage Answer:  in 1958 <|endoftext|>
+Question: who discovered a complete theorem-proving algorithm for first-order logic in 1965? Answer: J. A. Robinson's
+ <|endoftext|>
+Question: Which program in 1963 was able to solve closed-form calculus integration problems typical of MIT's first-year college courses? Answer: James Slagle's Saint program
+ <|endoftext|>
+Question: What is the most famous microworld? Answer: The blocks world.
+ <|endoftext|>
+Question: What does the perceptron convergence theorem say? Answer: The theorem says that the learning algorithm can adjust the connection strengths of a perceptron to match any input data <|endoftext|>
+Question: What does the book Preceptrons (1969) mentioned? Answer: Although perceptrons (a simple form of neural network) could be shown to learn anything they were capable of representing <|endoftext|>
+Question: What is the weak methods in 1969? Answer: a general-purpose search mechanism trying to string together elementary reasoning steps to find complete solutions.
+ <|endoftext|>
+Question: Why weak methods in 1969 are called weak methods? Answer: They do not scale up to large or difficult problem instances.
+ <|endoftext|>
+Question: Why is the DENDRAL program powerful Answer:  according to its authors? <|endoftext|>
+Question: Which program is the first successful knowledge-intensive system? Answer: The DENDRAL program.
+ <|endoftext|>
+Question: What does knowledge-intensive system mean? Answer: A system that its expertise derived from large numbers of special-purpose rules.
+ <|endoftext|>
+Question: What is the content of the Heuristic Programming Project (HPP)? Answer: It is to investigate the extent to which the new methodology of expert systems could be applied to other areas.
+ <|endoftext|>
+Question: What function does MYCIN system contribute in? Answer: diagnosing blood infections.
+ <|endoftext|>
+Question: What is the major differences between MYCIN and DENDRAL? Answer: First <|endoftext|>
+Question: What calculus of uncertainty does MYCIN incorporated? Answer: certainty factors.
+ <|endoftext|>
+Question: How is the performance of certainty factors in MYCIN? Answer: It seemed (at the time) to fit well with how doctors assessed the impact of evidence on the diagnosis.
+ <|endoftext|>
+Question: Which system is the first successful commercial expert system? Answer: R1.
+ <|endoftext|>
+Question: Where does the first successful commercial expert system began operation? Answer: The Digital Equipment Corporation (McDermott <|endoftext|>
+Question: What does robust language understanding requires? Answer: general knowledge about the world and a general method for using that knowledge.
+ <|endoftext|>
+Question: What does Minsky's idea of frames (1975) implies? Answer: assembling facts about particular object and event types and arranging the types into a large taxonomic hierarchy analogous to a biological taxonomy.
+ <|endoftext|>
+Question: What is the content of the “Fifth Generation” project announced by the Japanese government in 1981? Answer: A 10-year plan to build massively parallel <|endoftext|>
+Question: What caused the "AI winter"? Answer: Many companies fell by the wayside as they failed to deliver on extravagant promises.
+ <|endoftext|>
+Question: Why Answer:  after 1988 <|endoftext|>
+Question: Who described symbols as the “luminiferous aether of Al”? Answer: Geoff Hinton
+ <|endoftext|>
+Question: What does “luminiferous aether of Al” by Geoff Hinton mean? Answer: A reference to the non-existent medium through which many 19th-century physicists believed that electromagnetic waves propagated.
+ <|endoftext|>
+Question: How is the connectionist models better suited to the messiness of the real world? Answer: It forms internal concepts in a more fluid and imprecise way.
+ <|endoftext|>
+Question: What approach does the brittleness of expert systems led to? Answer: It is an approach incorporating probability rather than Boolean logic <|endoftext|>
+Question: What approach dominate the field of speech recognition? Answer: The approach using hidden Markov models (HMMs).
+ <|endoftext|>
+Question: What are the characteristics of HMMs in the feild of speech recognition? Answer: First <|endoftext|>
+Question: Which year is an important year for the connection between Al and other fields? Answer: 1988
+ <|endoftext|>
+Question: In 1998 Answer:  what fields does AI connected to? <|endoftext|>
+Question: Whose research led to a new acceptance of probability and decision theory in Al? Answer: Judea Pearl's (1988).
+ <|endoftext|>
+Question: What does Pearl's development of Bayesian networks yielded? Answer: It yielded a rigorous and efficient formalism for representing uncertain knowledge as well as practical algorithms for probabilistic reasoning
+ <|endoftext|>
+Question: What major contribution is done by Rich Sutton in 1988? Answer: connecting reinforcement learning to the theory of Markov decision processes (MDPs) developed in the field of operations research.
+ <|endoftext|>
+Question: What kind of advances facilitated the big data phenomenon? Answer: Remarkable advances in computing power and the creation of the World Wide Web.
+ <|endoftext|>
+Question: Who argued that the improvement in performance obtained from increasing the size of the data set by two or three orders of magnitude outweighs any improvement that can be obtained from tweaking the algorithm? Answer: Banko and Brill (2001)
+ <|endoftext|>
+Question: Who developed a clever method for filling in holes in photographs by blending in pixels from similar images? Answer: Hays and Efros (2007).
+ <|endoftext|>
+Question: What does the term deep learning refers to? Answer: It refers to machine learning using multiple layers of simple <|endoftext|>
+Question: What method do experiments found some success in handwritten digit recognition in the 1990s? Answer: convolutional neural networks.
+ <|endoftext|>
+Question: How does deep network contribute to ALPHAGO's victories over the leading human Go players? Answer: representing the evaluation function.
+ <|endoftext|>
+Question: What is the mean for Ford (2018) interviews of AI experts in the question of when (if ever) will AI systems achieve human-level performance across a broad variety of tasks? Answer: 2099
+ <|endoftext|>
+Question: What system does U.S. forces deployed to do automated logistics planning and scheduling for transportation? Answer:  a Dynamic Analysis and Replanning Tool <|endoftext|>
+Question: What AI system defeated world chess champion Garry Kasparov in 1997? Answer: Deep Blue
+ <|endoftext|>
+Question: What AI system defeated the world GO champion Ke Jie? Answer: ALPHAGO
+ <|endoftext|>
+Question: What ALPHAZERO can do? Answer: It used no input from humans (except for the rules of the game) <|endoftext|>
+Question: What does the deep learning model Answer:  which won the 2018 Gordon Bell Prize <|endoftext|>
+Question: Who noted that the “mechanical arts are of ambiguous use Answer:  serving as well for hurt as for remedy”? <|endoftext|>
+Question: Where does the statement “mechanical arts are of ambiguous use Answer:  serving as well for hurt as for remedy” be noted? <|endoftext|>
+Question: Who suggested that “First solve Al Answer:  then use Al to solve everything else.”? <|endoftext|>
+Question: How does United Nations define "Lethal Autonomous Weapons"? Answer: weapons that can locate <|endoftext|>
+Question: What possible risks we might face on devoloping AI? Answer: Lethal Autonomous Weapons <|endoftext|>
+Question: Who reminded that the field of those broader goals and warned that the subfields were in danger of becoming ends in themselves? Answer: Nils Nilsson (1995)
+ <|endoftext|>
+Question: Who was motivated to consider the long-term future of Al after seeing Arthur Samuel's checker-playing program learn to beat its creator? Answer: Norbert Wiener
+ <|endoftext|>
+Question: What does the Kind Midas problem implies? Answer: Midas <|endoftext|>
+Question: What is the definition of agent? Answer: anything that can be viewed as perceiving its environment through sensors and acting upon that environment through actuators.
+ <|endoftext|>
+Question: What the word percept refer to? Answer: It refer to the content an agent's sensors are perceiving.
+ <|endoftext|>
+Question: What is an agent's percept sequence? Answer: the complete history of everything the agent has ever perceived.
+ <|endoftext|>
+Question: In general Answer:  what does an agent's choice of action at any given instant depend on? <|endoftext|>
+Question: What can we say mathematically on an agent's behavior? Answer: An agent's behavior is described by the agent function that maps any given percept sequence to an action.
+ <|endoftext|>
+Question: How AI is stucked to consequentialism? Answer: We evaluate an agent's behavior by its consequences.
+ <|endoftext|>
+Question: How can we capture the desirability related to consequentialism of an AI model? Answer: It can be captured by a performance measure that evaluates any given sequence of environment states.
+ <|endoftext|>
+Question: What is the difference on desirability between human and machine? Answer: Human measures it from their point of view <|endoftext|>
+Question: Who warns to ensure that “the purpose put into the machine is the purpose which we really desire”? Answer: Norbert Wiener.
+ <|endoftext|>
+Question: How Answer:  better <|endoftext|>
+Question: What does the King Midas problem inspire us? Answer: We must accept the possibility that we might put the wrong purpose into the machine.
+ <|endoftext|>
+Question: What can the definition of rational depends on? Answer: The performance measure that defines the criterion of success; The agent's prior knowledge of the environment; The actions that the agent can perform; The agent’s percept sequence to date.
+ <|endoftext|>
+Question: What is the difference of omniscience from rationality? Answer: An omniscient agent knows the actual outcome of its actions and can act accordingly; but omniscience is impossible in reality.
+ <|endoftext|>
+Question: What is the relationship between rationality and perfection? Answer: Rationality maximizes expected performance <|endoftext|>
+Question: What information gathering means? Answer: Doing actions in order to modify future percepts.
+ <|endoftext|>
+Question: How we will say that an agent lacks autonomy? Answer: An agent relies on the prior knowledge of its designer rather than on its own percepts and learning processes.
+ <|endoftext|>
+Question: What does an autonomous rational agent do? Answer: It should learn what it can to compensate for partial or incorrect prior knowledge.
+ <|endoftext|>
+Question: What is task environments? Answer: They are essentially the “problems” to which rational agents are the “solutions.”
+ <|endoftext|>
+Question: What is PEAS description? Answer: Specify the performance measure <|endoftext|>
+Question: What we can do as the range of task environments that might arise in Al is obviously vast? Answer: We can identify a fairly small number of dimensions along which task environments can be categorized.
+ <|endoftext|>
+Question: What dimensions we can indentify on task environments? Answer: Fully observable vs. partially observable; single-agent vs. multiagent; deterministic vs. nondeterministic; episodic vs. sequential; static vs. dynamic; discrete vs. continuous; known vs. unknown
+ <|endoftext|>
+Question: How can we say a task environment is fully observable? Answer: an agent's sensors give it access to the complete state of the environment at each point in time.
+ <|endoftext|>
+Question: How can we say a task environment is deterministic? Answer: The next state of the environment is completely determined by the current state and the action executed by the agent(s).
+ <|endoftext|>
+Question: What task environment makes an agent need not worry about uncertainty? Answer: fully observable and deterministic.
+ <|endoftext|>
+Question: What is the difference between stochastic and nondeterministic? Answer: We say that a model of the environment is stochastic if it explicitly deals with probabilities (e.g. <|endoftext|>
+Question: How can we say a task environment is episodic? Answer: The agent's experience is divided into atomic episodes <|endoftext|>
+Question: How can we say a task environment is sequential? Answer: The current decision of agent could affect all future decisions.
+ <|endoftext|>
+Question: What are the examples of episodic and sequential task environments? Answer: Many classification tasks are episodic; Chess and taxi driving are sequential.
+ <|endoftext|>
+Question: Why episodic environments are much simpler than sequential environments? Answer: The agent does not need to think ahead.
+ <|endoftext|>
+Question: How can we say a task environment is dynamic for that agent? Answer: The environment can change while an agent is deliberating.
+ <|endoftext|>
+Question: How can we say a task environment is static for that agent? Answer: The environment cannot change while an agent is deliberating.
+ <|endoftext|>
+Question: Why static task envrionments are easy to deal with? Answer: The agent need not keep looking at the world while it is deciding on an action <|endoftext|>
+Question: How can we say a task environment is semidynamic? Answer: The environment itself does not change with the passage of time but the agent's performance score does.
+ <|endoftext|>
+Question: What are the examples of dynamic Answer:  semidynamic and static task environments? <|endoftext|>
+Question: What are the differences between discrete and continuous task environments? Answer: The state of the environment <|endoftext|>
+Question: What are the examples of discrete and continuous task environments? Answer: Chess has a finite number of distinct states (excluding the clock) <|endoftext|>
+Question: What does a known / unknown task environment refers to? Answer:  The agent's (or designer's) state of knowledge about the “laws of physics” of the environment.
+ <|endoftext|>
+Question: How can we say a task environment is known? Answer: The outcomes (or outcome probabilities if the environment is nondeterministic) for all actions are given.
+ <|endoftext|>
+Question: How can we say a task environment is unknown? Answer: The agent will have to learn how it works in order to make good decisions.
+ <|endoftext|>
+Question: What is an example of partially observable and known task environment? Answer: In solitaire card games <|endoftext|>
+Question: What is an example of fully observable and unknown task environment? Answer: In a new video game <|endoftext|>
+Question: What kind of task environment should be the hardest case? Answer: partially observable <|endoftext|>
+Question: What is an agent function? Answer: The mapping from percepts to actions.
+ <|endoftext|>
+Question: What is the agent architecture? Answer: A program will run on some sort of computing device with physical sensors and actuators
+ <|endoftext|>
+Question: What the architecture does to a program? Answer: In general <|endoftext|>
+Question: What are the four basic kinds of agent programs that embody the principles underlying almost all intelligent systems? Answer: Simple reflex agents; Model-based reflex agents; Goal-based agents; and Utility-based agents.
+ <|endoftext|>
+Question: What does simple reflex agents do? Answer: These agents select actions on the basis of the current percept <|endoftext|>
+Question: What does condition-action rule similar to? Answer: if-then statements.
+ <|endoftext|>
+Question: What is the more general and flexible approach for simple reflex agent? Answer: Firstly build a general-purpose interpreter for condition-action rules and then to create rule sets for specific task environments.
+ <|endoftext|>
+Question: How can a simple reflex agen escape from infinite loops? Answer: The agent can randomize its actions.
+ <|endoftext|>
+Question: What is better instead of allowing simple reflex agents to randomize its actions? Answer: A more sophisticated deterministic agent.
+ <|endoftext|>
+Question: What is the most effective way to handle partial observability for the agent? Answer: The agent should maintain some sort of internal state that depends on the percept history and thereby reflects at least some of the unobserved aspects of the current state. 
+ <|endoftext|>
+Question: What kind of knowledge is required in updating model-based reflex agents' internal state information as time goes by? Answer: First <|endoftext|>
+Question: How the information about how the world changes over time in model-based reflex agent can be divided? Answer: The effects of the agent's actions and how the world evolves independently of the agent.
+ <|endoftext|>
+Question: What does the knowledge about “how the world works” is called? Answer: The transition model of the world.
+ <|endoftext|>
+Question: What is sensor model in model-based reflex agent? Answer: A kind of knowledge <|endoftext|>
+Question: What is the definition of model-based reflex agent? Answer: An agent using transition model and sensor model.
+ <|endoftext|>
+Question: How transition model and sensor model function in model-based reflex agent? Answer: allow an agent to keep track of the state of the world.
+ <|endoftext|>
+Question: Which part in model-based reflex agent's structure is interesting? Answer: The function which is responsible for creating the new internal state description.
+ <|endoftext|>
+Question: What does the model-based reflex agent's knowing of the current world actually is? Answer: It represents the agent's “best guess” <|endoftext|>
+Question: What does goal information do to agents? Answer: It describes situations that are desirable.
+ <|endoftext|>
+Question: How a goal-based agent appears being more flexible? Answer: It may appears less efficient.
+ <|endoftext|>
+Question: Why economists and computer scientists use the term utility instead? Answer: It is because it sounds more scientific then words like "happy"."
+ <|endoftext|>
+Question: What will happen if the internal utility function and the external performance measure are in agreement? Answer: An agent that chooses actions to maximize its utility will be rational according to the external performance measure.
+ <|endoftext|>
+Question: What does a utility function do when there are conflicting goals? Answer: It specifies the appropriate tradeoff.
+ <|endoftext|>
+Question: What does a utility function do when there are several goals that the agent can aim for? Answer: It provides a way in which the likelihood of success can be weighed against the importance of the goals.
+ <|endoftext|>
+Question: How can we say technically about a rational utility-based agent? Answer: It chooses the action that maximizes the expected utility of the action outcomes—that is <|endoftext|>
+Question: What will happen if an agent possesses an explicit utility function? Answer: It can make rational decisions with a general-purpose algorithm that does not depend on the specific utility function being maximized.
+ <|endoftext|>
+Question: What is hard in utility-based function? Answer: A utility-based agent has to model and keep track of its environment; Choosing the utility-maximizing course of action.
+ <|endoftext|>
+Question: What is the advantage for agent to learn? Answer: It allows the agent to operate in initially unknown environments and to become more competent than its initial knowledge alone might allow.
+ <|endoftext|>
+Question: What is the conceptual components for a learning agent? Answer: Learning element; Performance element; Critic; Problem Generator.
+ <|endoftext|>
+Question: What does the learning element in the components for a learning agent do? Answer: It is responsible for making improvements.
+ <|endoftext|>
+Question: What does the performance element in the components for a learning agent do? Answer: It is responsible for selecting external actions.
+ <|endoftext|>
+Question: What does the critic in the components for a learning agent do? Answer: The critic tells the learning element how well the agent is doing with respect to a fixed performance standard.
+ <|endoftext|>
+Question: How should we think when we are trying to design an agent that learns a certain capability? Answer: The first question is not “How am I going to get it to learn this?” but “What kind of performance element will my agent use to do this once it has learned how?” 
+ <|endoftext|>
+Question: Why critic is necessary for a learning agent? Answer: The percepts themselves provide no indication of the agent's success. 
+ <|endoftext|>
+Question: What does the problem generator in the components for a learning agent do? Answer: It is responsible for suggesting actions that will lead to new and informative experiences.
+ <|endoftext|>
+Question: What will happen if an agent is willing to explore a little and do some perhaps suboptimal actions in the short run? Answer: It might discover much better actions for the long run.
+ <|endoftext|>
+Question: What is needed when we are trying to learn a reflex component or a utility function? Answer: Information from the external standard.
+ <|endoftext|>
+Question: What does the performance standard distinguishes part of the incoming percept as? Answer: A reward or penalty that provides direct feedback on the quality of the agent's behavior.
+ <|endoftext|>
+Question: How can we rank the representations of task environments in their expressiveness? Answer: Atomic <|endoftext|>
+Question: What does a particular agent component that deals with “What my actions do” do? Answer: It describes the changes that might occur in the environment as the result of taking an action <|endoftext|>
+Question: What happens in an atomic representation? Answer: Each state of the world is indivisible—it has no internal structure.
+ <|endoftext|>
+Question: What are the examples of areas work with atomic representations? Answer: Search and game-playing <|endoftext|>
+Question: What does a factored representation do? Answer: It splits up each state into a fixed set of variables or attributes <|endoftext|>
+Question: What are the examples of areas work with factored representations? Answer: Constraint satisfaction algorithms <|endoftext|>
+Question: What happens in a structured representation? Answer: Objects and their various and varying relationships can be described explicitly
+ <|endoftext|>
+Question: When we need the structured representation? Answer: When we need to understand the world as having things in it that are related to each other <|endoftext|>
+Question: What are the examples of areas work with structured representations? Answer: Relational databases and first-order logic <|endoftext|>
+Question: How reasoning and learning changes following to the expressive power of the representation of an agent's environment? Answer: Reasoning and learning become more complex as the expressive power of the representation increases.
+ <|endoftext|>
+Question: How can we gain the benefits of expressive representations of agent environments while avoiding their drawbacks? Answer: Intelligent systems for the real world may need to operate at all points along the axis simultaneously
+ <|endoftext|>
+Question: What happens in a localist representation? Answer: There is a one-to-one mapping between concepts and memory locations.
+ <|endoftext|>
+Question: What happens in a distributed representation? Answer: The representation of a concept is spread over many memory locations <|endoftext|>
+Question: Which representations are more robust against noise and information loss Answer:  localist one or distributed one? <|endoftext|>
+Question: What bad situation might happen using localist representations? Answer: The mapping from concept to memory location is arbitrary <|endoftext|>
+Question: What is the definition of problem-solving agent? Answer: An agent that need to plan ahead: to consider a sequence of actions that form a path to a goal state.
+ <|endoftext|>
+Question: What is the definition of search? Answer: The computational process that a problem-solving agent undertakes.
+ <|endoftext|>
+Question: What representations do Problem-solving agents use? Answer: Atomic representations.
+ <|endoftext|>
+Question: What happens to informed algorithms? Answer: The agent can estimate how far it is from the goal.
+ <|endoftext|>
+Question: What happens to uninformed algorithms? Answer: The agent cannot estimate how far it is from the goal.
+ <|endoftext|>
+Question: What is the four-phrase problem-solving process? Answer: Goal formulation; problem formulation; Search; Execution.
+ <|endoftext|>
+Question: What an agent does in goal formulation phase? Answer: The agent adopts the goal of a task.
+ <|endoftext|>
+Question: How does the goals act in an agent's goal formulation phase? Answer: Goals organize behavior by limiting the objectives and hence the actions to be considered.
+ <|endoftext|>
+Question: What an agent does in problem formulation phase? Answer: The agent devises a description of the states and actions necessary to reach the goal—an abstract model of the relevant part of the world.
+ <|endoftext|>
+Question: What an agent does in search phase? Answer: Before taking any action in the real world <|endoftext|>
+Question: What is the definition of solution for problem-solving agent? Answer: A sequence of actions that reaches the goal.
+ <|endoftext|>
+Question: What an agent does in execution phase? Answer: The agent excute the actions in the solution <|endoftext|>
+Question: How is the solution in a fully observable Answer:  deterministic <|endoftext|>
+Question: What open-loop system is by the control theorists? Answer: A system ignoring the percepts breaks the loop between agent and environment.
+ <|endoftext|>
+Question: Which loop is more safer for a problem-solving agent Answer:  open-loop or closed-loop? <|endoftext|>
+Question: How is the solution in a partially observable or nondeterministic environment? Answer: A solution would be a branching strategy that recommends different future actions depending on what percepts arrive.
+ <|endoftext|>
+Question: What is the definition of the state space? Answer: A set of possible states that the environment can be in.
+ <|endoftext|>
+Question: What is the definition of the initial state? Answer: The state that the agent starts in.
+ <|endoftext|>
+Question: What is the definition of the goal states? Answer: A set of states that are goals to the agent.
+ <|endoftext|>
+Question: What is the definition of transition model to problem-solving agent? Answer: A model which describes what each action does.
+ <|endoftext|>
+Question: What is the definition of action cost function? Answer: A function reflects an agent's own performance measure.
+ <|endoftext|>
+Question: What is the definition of a search "problem"? Answer: The combination of a state space <|endoftext|>
+Question: What is the definition of an optimal solution? Answer: The solution having the lowest path cost.
+ <|endoftext|>
+Question: What is the possible meaning of model? Answer: An abstract mathematical description <|endoftext|>
+Question: What is the definition of abstraction? Answer: The process of removing detail from a representation.
+ <|endoftext|>
+Question: How can we say an abstraction is good? Answer: It involves removing as much detail as possible while retaining validity and ensuring that the abstract actions are easy to carry out.
+ <|endoftext|>
+Question: What will happen if we don't have the ability to construct useful abstractions? Answer: The intelligent agents would be completely swamped by the real world.
+ <|endoftext|>
+Question: What is the definition of standardized problem? Answer: It is intended to illustrate or exercise various problem-solving methods.
+ <|endoftext|>
+Question: How can researchers use a standardized problem? Answer: A standardized problem is suitable as a benchmark for researchers to compare the performance of algorithms.
+ <|endoftext|>
+Question: What is the definition of real-world problem? Answer: It is one whose solutions people actually use <|endoftext|>
+Question: What is a grid world problem? Answer: It is a two-dimensional rectangular array of square cells in which agents can move from cell to cell.
+ <|endoftext|>
+Question: What agents can do to objects in cells in a grid world problem? Answer: Cells can contain objects <|endoftext|>
+Question: What wall or impassible obstacles do in a grid world problem? Answer: Those things in a cell prevents an agent from moving into that cell.
+ <|endoftext|>
+Question: What is the example of a grid world problem? Answer: Sokoban puzzle.
+ <|endoftext|>
+Question: What is a sokoban puzzle? Answer: It is a puzzle that the agent's goal is to push a number of boxes <|endoftext|>
+Question: What is a sliding-tile puzzle? Answer: It is a puzzle that a number of tiles (sometimes called blocks or pieces) are arranged in a grid with one or more blank spaces so that some of the tiles can slide into the blank space.
+ <|endoftext|>
+Question: What is a touring problem? Answer: It is a problem that describes a set of locations that must be visited <|endoftext|>
+Question: What is the traveling salesperson problem (TSP)? Answer: It is a touring problem in which every city on a map must be visited.
+ <|endoftext|>
+Question: What does a VLSI layout problem requires? Answer: It requires positioning millions of components and connections on a chip.
+ <|endoftext|>
+Question: What does a VLSI layout problem aims to? Answer: It aims to minimize area <|endoftext|>
+Question: How does the VLSI layout problem be splited? Answer: It is split into two parts: cell layout and channel routing.
+ <|endoftext|>
+Question: What is the difference of robot navigation from following distinct paths? Answer: A robot can roam around <|endoftext|>
+Question: What problem do real robots must also deal with in robot navigation? Answer: Their sensor readings and motor controls <|endoftext|>
+Question: Since when does the automatic assembly sequencing of complex objects (such as electric motors) by a robot have been standard industry practice? Answer: 1970s.
+ <|endoftext|>
+Question: What is protein design? Answer: It is an assembly problem <|endoftext|>
+Question: What is the definition of search algorithm? Answer: A search algorithm takes a search problem as input and returns a solution <|endoftext|>
+Question: What does a node in a search tree corresponds to? Answer: A state in the state space.
+ <|endoftext|>
+Question: What does an edge in a search tree corresponds to? Answer: An action.
+ <|endoftext|>
+Question: What does the root in a search tree corresponds to? Answer: The initial state of the problem.
+ <|endoftext|>
+Question: What is the distinction of the state space from the search tree? Answer: The state space describes the (possibly infinite) set of states in the world <|endoftext|>
+Question: What is the distinction of the search tree from the state space? Answer: The search tree describes paths between these states <|endoftext|>
+Question: What is the process of expanding a node? Answer: We can expand the node <|endoftext|>
+Question: If A is a child node of B Answer:  what B is of A? <|endoftext|>
+Question: What is the essence of search? Answer: Following up one option now and putting the others aside for later.
+ <|endoftext|>
+Question: How can we say a node is reached? Answer: The node has had a node generated for it.
+ <|endoftext|>
+Question: What is best-first search? Answer: We choose a node <|endoftext|>
+Question: What is node? Answer: A node in the tree is represented by a data structure with four components: State; Parent; Action; Path cost.
+ <|endoftext|>
+Question: What is the componenets of a node? Answer: State; Parent; Action; Path cost.
+ <|endoftext|>
+Question: What is queue? Answer: A data structure used to store the frontier.
+ <|endoftext|>
+Question: What are the possible operations on a frontier? Answer: check whether it is empty; remove the top node; return the top node; insert node into proper place
+ <|endoftext|>
+Question: What is a priority queue? Answer: A kind of queue which first pops the node with the minimum cost according to some evaluation function <|endoftext|>
+Question: Where does a priority queue might be used? Answer: It is used in best-first search.
+ <|endoftext|>
+Question: What is a first-in-first-out (FIFO) queue? Answer: A kind of queue which  first pops the node that was added to the queue first.
+ <|endoftext|>
+Question: Where does a FIFO queue might be used? Answer: It is used in breadth-first search.
+ <|endoftext|>
+Question: What is a last-in-first-out (LIFO) queue? Answer: A kind of queue which  first pops the node that was added most recently to the queue.
+ <|endoftext|>
+Question: Where does a LIFO queue might be used? Answer: It is used in depth-first search.
+ <|endoftext|>
+Question: What is the example of loopy path in a search? Answer: The search goes repeatedly between two states.
+ <|endoftext|>
+Question: what is the possible consequence if loopy path occurs in a search? Answer: The complete search tree is infinite.
+ <|endoftext|>
+Question: What should be eliminated in the search? Answer: Redundant paths.
+ <|endoftext|>
+Question: What possible methods can be used to eliminate redundant paths? Answer: Remember all previously reached states to detect redundant paths; do not consider it for minor problem formulations; only check for cycles but not for redundant paths in general.
+ <|endoftext|>
+Question: What is a graph search? Answer: A search algorithm which checks for redundant paths.
+ <|endoftext|>
+Question: What is a tree-like search? Answer: A search algorithm which does not check for redundant paths.
+ <|endoftext|>
+Question: What is an example of graph search algorithm? Answer: The Brst-First-Search algorithm.
+ <|endoftext|>
+Question: What are the evaluation methods on an algorithm’s performance? Answer: Completeness; Cost optimality; Time complexity; Space complexity.
+ <|endoftext|>
+Question: What does Completeness evaluates specificly on an algorithm's performance? Answer: Is the algorithm guaranteed to find a solution when there is one <|endoftext|>
+Question: What does Cost optimality evaluates specificly on an algorithm's performance? Answer: Does it find a solution with the lowest path cost of all solutions?
+ <|endoftext|>
+Question: What does Time complexity evaluates specificly on an algorithm's performance? Answer: How long does it take to find a solution? This can be measured in seconds <|endoftext|>
+Question: What does Space complexity evaluates specificly on an algorithm's performance? Answer: How much memory is needed to perform the search?
+ <|endoftext|>
+Question: What kind of search algorithm will be complete? Answer: A search algorithm which is systematic in the way it explores an infinite state space <|endoftext|>
+Question: What evaluation methods on an algorithm’s performance are considered with respect to some measure of the problem difficulty? Answer: Time and space complexity.
+ <|endoftext|>
+Question: What variables can we use in measuring the complexity of an algorithm? Answer: d <|endoftext|>
+Question: What is an informed search strategy? Answer: One that uses domain-specific hints about the location of goals.
+ <|endoftext|>
+Question: What is heuristic function? Answer: The estimated cost of the cheapest path from the state at node n to a goal state.
+ <|endoftext|>
+Question: What is Greedy best-first search? Answer: Greedy best -first search is a form of best-first search that expands first the node with the lowest value on the grounds that this is likely to lead to a solution quickly.
+ <|endoftext|>
+Question: Why the algorithm is called “greedy”? Answer: On each iteration it tries to get as close to a goal as it can <|endoftext|>
+Question: What is A* search? Answer: A* search is a best-first search that uses the evaluation function f(n) = g(n) + h(n).
+ <|endoftext|>
+Question: What is g(n)? Answer: g(n) is the path cost from the initial state to node n.
+ <|endoftext|>
+Question: What is f(n)? Answer: f(n) is the estimated cost of the best path that continues from n to a goal.
+ <|endoftext|>
+Question: What is the properties of A* search? Answer: A* search is complete <|endoftext|>
+Question: What is the drawback of A* search? Answer: A* search uses a lot of space and memory.
+ <|endoftext|>
+Question: What is an admissible heuristic? Answer: An admissible heuristic is one that never overestimates the cost to reach a goal. 
+ <|endoftext|>
+Question: What is a contour? Answer: A contour is a useful way to visualize a search by drawing it in the state space.
+ <|endoftext|>
+Question: Does uniform-cost search has contours? Answer: Yes <|endoftext|>
+Question: What does the contours with uniform-cost search look like? Answer: The contours with uniform-cost search will be “circular” around the start state <|endoftext|>
+Question: What is satisficing solutions? Answer: Satisficing solutions are when we accept solutions that are suboptimal <|endoftext|>
+Question: What is bounded suboptimal search? Answer: We look for a solution that is guaranteed to be within a constant factor W of the optimal cost.
+ <|endoftext|>
+Question: Which algorith provides bounded suboptimal search? Answer: Weighted A* provides bounded suboptimal search.
+ <|endoftext|>
+Question: What is bounded-cost search? Answer: We look for a solution whose cost is less than some constant C.
+ <|endoftext|>
+Question: What is unbounded-cost search? Answer: We accept a solution of any cost <|endoftext|>
+Question: What is the example of an unbounded-cost search algorithm? Answer: An example of an unbounded-cost search algorithm is speedy search.
+ <|endoftext|>
+Question: What is speedy search? Answer: The speedy search is a version of greedy best-first search that uses as a heuristic the estimated number of actions required to reach a goal <|endoftext|>
+Question: What is Iterative-deepening A* search? Answer: Iterative-deepening A* search (IDA*) is to A* what iterative-deepening search is to depthfirst.
+ <|endoftext|>
+Question: What is the benefits of Iterative-deepening A* search? Answer: Iterative-deepening A* search gives us the benefits of A* without the requirement to keep all reached states in memory <|endoftext|>
+Question: What is recursive best-first search? Answer: Recursive best-first search attempts to mimic the operation of standard best-first search <|endoftext|>
+Question: What is beam search? Answer: Beam search puts a limit on the size of the frontier; that makes it incomplete and suboptimal <|endoftext|>
+Question: How to construct good heuristics? Answer:  One can sometimes construct good heuristics by relaxing the problem definition <|endoftext|>
+Question: How do local search algoritms function? Answer: Local search algorithms operate by searching from a start state to neighboring states <|endoftext|>
+Question: Are local search algoritms systematic? Answer: No <|endoftext|>
+Question: What are the advantages of local search algorithms? Answer: They use very little memory; and they can often find reasonable solutions in large or infinite state spaces for which systematic algorithms are unsuitable.
+ <|endoftext|>
+Question: What is hill-climbing search algorithm? Answer: The hill-climbing search algorithm keeps track of one current state and on each iteration moves to the neighboring state with highest value.
+ <|endoftext|>
+Question: Why hill climbing is called greedy local search? Answer: Hill climbing is called greedy local search because it grabs a good neighbor state without thinking ahead about where to go next.
+ <|endoftext|>
+Question: What is the drawback of hill climbing? Answer: Hill climbing can get stuck when it reaches local maxima <|endoftext|>
+Question: What is a local maximum? Answer: A local maximum is a peak that is higher than each of its neighboring states but lower than the global maximum.
+ <|endoftext|>
+Question: What is a plateau? Answer: A plateau is a flat area of the state-space landscape.
+ <|endoftext|>
+Question: What are the examples of plauteau? Answer: A plauteau is a flat local maximum <|endoftext|>
+Question: What is stochastic hill climbing? Answer: Stochastic hill climbing  chooses at random from among the uphill moves; the probability of selection can vary with the steepness of the uphill move. 
+ <|endoftext|>
+Question: What is first-choice hill climbing? Answer: A first-choice hill climbing implements stochastic hill climbing by generating successors randomly until one is generated that is better than the current state.
+ <|endoftext|>
+Question: What is random-restart hill climbing? Answer: A random-restart hill climbing conducts a series of hill-climbing searches from randomly generated initial states <|endoftext|>
+Question: How to get a success hill climbing? Answer: A success hill climbing depends very much on the shape of the state-space landscape: if there are few local maxima and plateaus <|endoftext|>
+Question: What is simulated annealing? Answer: A simulated annealing combines hill climbing with a random walk in a way that yields both efficiency and completeness.
+ <|endoftext|>
+Question: What is annealing? Answer: Annealing is the process used to temper or harden metals and glass by heating them to a high temperature and then gradually cooling them <|endoftext|>
+Question: What is local beam search? Answer: The local beam search algorithm keeps track of k states rather than just one. 
+ <|endoftext|>
+Question: How does the local beam search operate? Answer: It begins with k randomly generated states. At each step <|endoftext|>
+Question: What is evolutionary algoritms? Answer: Evolutionary algorithms can be seen as variants of stochastic beam search that are explicitly motivated by the metaphor of natural selection in biology.
+ <|endoftext|>
+Question: What is genetic algorithm? Answer: Genetic algorithms are similar to stochastic beam search <|endoftext|>
+Question: When is the genetic algorithm advantageous? Answer: Genetic algorithm is advantageous when there are blocks that perform useful functions.
+ <|endoftext|>
+Question: What are empirical gradient methods? Answer: Empirical gradient methods are methods that measure progress by the change in the value of the objective function between two nearby points
+ <|endoftext|>
+Question: What is a belief state? Answer:  A belief state is a set of physical states that the agent believes are possible.
+ <|endoftext|>
+Question: What is a sensorless problem? Answer: A sensorless problem is when the agent’s percepts provide no information at all.
+ <|endoftext|>
+Question: What are offline search algorithms? Answer: Offline search algorithms compute a complete solution before taking their first action.
+ <|endoftext|>
+Question: What are online search algorithms? Answer: Online search algorithms take an action first <|endoftext|>
+Question: How is an online search problem solved? Answer: An online search problem is solved by interleaving computation <|endoftext|>
+Question: What is competitive ratio? Answer: Competitive ratio is the comparison of the cost with the path cost the agent would incur if it knew the search space in advance.
+ <|endoftext|>
+Question: What are dead ends? Answer: Dead ends are states from which no goal state is reachable.
+ <|endoftext|>
+Question: What is the meaning of safely explorable? Answer: Safely explorable is when some goal state is reachable from every reachable state. 
+ <|endoftext|>
+Question: What is random walk? Answer: A random walk simply selects at random one of the available actions from the current state
+ <|endoftext|>
+Question: What are competitive environments? Answer: Competitive environments are in which two or more agents have conflicting goals. 
+ <|endoftext|>
+Question: What is an economy? Answer: An economy is to consider a very large number of agents in the aggregate.
+ <|endoftext|>
+Question: What are the examples of games that include an element of chance? Answer: The examples are rolling dice or shuffling cards.
+ <|endoftext|>
+Question: What are the examples of games of imperfect information? Answer: The examples are poker and bridge <|endoftext|>
+Question: What is "perfect information"? Answer: Perfect information is when the game is fully observable.
+ <|endoftext|>
+Question: What is "zero-sum"? Answer: “Zero-sum” means that what is good for one player is just as bad for the other: there is no “win-win” outcome.
+ <|endoftext|>
+Question: What are the formally defined elements of a game? Answer: A game can be formally defined with initial state <|endoftext|>
+Question: What is a terminal test? Answer: A terminal test is true when the game is over and false if otherwise.
+ <|endoftext|>
+Question: What is terminal states? Answer: Terminal states are states where the game has ended.
+ <|endoftext|>
+Question: What is a utility function? Answer: A utility function defines the final numeric value to player p when the game ends in terminal state s.
+ <|endoftext|>
+Question: What are the other names of a utility function? Answer: The other names of a utility function are an objective function or payoff function.
+ <|endoftext|>
+Question: What is a state space graph? Answer: A state space graph is a graph where the vertices are states <|endoftext|>
+Question: When do we use minimax search? Answer: We uses minimax search for games with multiple outcome scores.
+ <|endoftext|>
+Question: What is ply? Answer: Ply is used to unambiguously mean one move by one player <|endoftext|>
+Question: What is the minimax search algorithm? Answer: The minimax search algorithm finds the best move for MAX by trying all actions and choosing the one whose resulting state has the highest MINIMAX value.
+ <|endoftext|>
+Question: Is the minimax search algorithm recursive? Answer: Yes <|endoftext|>
+Question: What is the time complexity for the minimax search algorithm? Answer: The time complexity of the minimax algorithm is O(b^m) if the maximum depth of the tree is m and there are b legal moves at each point.
+ <|endoftext|>
+Question: What is alpha–beta pruning? Answer: The alpha–beta pruning is the particular technique when we compute the correct minimax decision without examining every state by pruning large parts of the tree that make no difference to the outcome.
+ <|endoftext|>
+Question: What is Type A strategy? Answer: A Type A strategy considers all possible moves to a certain depth in the search tree <|endoftext|>
+Question: What is Type B strategy? Answer: A Type B strategy ignores moves that look bad <|endoftext|>
+Question: What is the difference between the Type A strategy and Type B strategy? Answer: Type A strategy explores a wide but shallow portion of the tree <|endoftext|>
+Question: What is the example of games with Type A strategy? Answer: Most of the chess programs have been Type A strategy.
+ <|endoftext|>
+Question: What is the example of games with Type B strategy Answer: Most of the Go programs are more often Type B strategy.
+ <|endoftext|>
+Question: What is forward pruning? Answer: A forward pruning prunes moves that appear to be poor moves <|endoftext|>
+Question: Why we use Monte Carlo tree search? Answer: We use Monte Carlo tree search because  alpha–beta search would be limited to only 4 or 5 ply and  <|endoftext|>
+Question: What are sto4chastic games? Answer: Stochastic games bring us a little closer to the unpredictability of real life by including a random element <|endoftext|>
+Question: What is the example of stochastic games? Answer: Backgammon is a typical stochastic game that combines luck and skill. 
+ <|endoftext|>
+Question: What are partially obsercable games? Answer: Partially observable games  includes the use of scouts and spies to gather information and the use of concealment and bluff to confuse the enemy.
+ <|endoftext|>
+Question: What are the examples of partially obsercable games? Answer: Video games such as StarCraft is the example of partially obsercable game.
+ <|endoftext|>
+Question: What are stochastic partial observable games? Answer: Stochastic partial observable games are where the missing information is generated by the random dealing of cards.
+ <|endoftext|>
+Question: What are the examples of stochastic partial observable games? Answer: Card games such as bridge <|endoftext|>
+Question: When is Monte Carlo search preferred? Answer: When the branching factor is high or it is difficult to define an evaluation function <|endoftext|>
+Question: What is the limitation of alpha–beta search? Answer: The limitation of alpha–beta search is its vulnerability to errors in the heuristic function.
+ <|endoftext|>
+Question: What is the limitation of Monte Carlo search? Answer: The limitation of Monte Carlo is that it is designed to calculate the values of legal moves. 
+ <|endoftext|>
+Question: What is metareasoning? Answer: Metareasoning is the kind of reasoning about what computations to do.
+ <|endoftext|>
+Question: What is a constraint satisfaction problem? Answer: A constraint satisfaction problem is A problem that is solved when each variable has a value that satisfies all the constraints on the variable.
+ <|endoftext|>
+Question: What are the components of a constraint satisfaction problem? Answer: The three components are a set of variables (X) <|endoftext|>
+Question: What is a consistent or legal assignment? Answer: A consistent or legal assignment is an assignment that does not violate any constraints.
+ <|endoftext|>
+Question: What is a complete assignment? Answer: A complete assignment is one in which every variable is assigned a value.
+ <|endoftext|>
+Question: What is a solution to a CSP? Answer: A solution to a CSP is a consistent <|endoftext|>
+Question: What is a partial assignment? Answer: A partial assignment is one that leaves some variables unassigned.
+ <|endoftext|>
+Question: What is a partial solution? Answer: A partial solution is a partial assignment that is consistent.
+ <|endoftext|>
+Question: Why do we formulate a problem as a CSP? Answer: One reason is that the CSPs yield a natural representation for a wide variety of problems; it is often easy to formulate a problem as a CSP.
+ <|endoftext|>
+Question: What are linear constraints? Answer: Linear constraints are  constraints in which each variable appears only in linear form. 
+ <|endoftext|>
+Question: What is unary constraint? Answer: A unary constraint restricts the value of a single variable. 
+ <|endoftext|>
+Question: What is a global constraint? Answer: A global constraint is a constraint involving an arbitrary number of variables.
+ <|endoftext|>
+Question: What is constraint propagation? Answer: It is using the constraints to reduce the number of legal values for a variable <|endoftext|>
+Question: What is node-consistency? Answer: A single variable is node-consistent if all the values in the variable’s domain satisfy the variable’s unary constraints. 
+ <|endoftext|>
+Question: What is arc-consistent? Answer: A variable in a CSP is arc-consistent if every value in its domain satisfies the variable’s binary constraints. 
+ <|endoftext|>
+Question: What is the example of algorithm that enforce arc consistency? Answer: The most popular algorithm for enforcing arc consistency is called AC-3. 
+ <|endoftext|>
+Question: What can path consistency do? Answer: Path consistency tightens the binary constraints by using implicit constraints that are inferred by looking at triples of variables.
+ <|endoftext|>
+Question: What is minimum-remaining-values? Answer: Minimum-remaining-value is the idea of choosing the variable with the fewest “legal” values.
+ <|endoftext|>
+Question: What can degree heuristic do? Answer: Degree heuristic attempts to reduce the branching factor on future choices by selecting the variable that is involved in the largest number of constraints on other unassigned variables.
+ <|endoftext|>
+Question: What can the least-constraining-value heuristic do? Answer: The least-constraining-value heuristic prefers the value that rules out the fewest choices for the neighboring variables in the constraint graph.
+ <|endoftext|>
+Question: What is the policy of backtracking-search algorithm? Answer: The backtracking-search algorithm backs up to the preceding variable and try a different value for it. 
+ <|endoftext|>
+Question: What is a backjumping method? Answer: A backjumping method backtracks to the most recent assignment in the conflict set.
+ <|endoftext|>
+Question: What happens to the algorithm when no legal value is found? Answer: When no legal value is found <|endoftext|>
+Question: What is constraint learning? Answer: Constraint learning is the idea of finding a minimum set of variables from the conflict set that causes the problem.
+ <|endoftext|>
+Question: How can independence be ascertained? Answer: Independence can be ascertained simply by finding connected components of the constraint graph. 
+ <|endoftext|>
+Question: What is a topological sort? Answer: A topological sort is the ordering of picking any variable to be the root of the tree first <|endoftext|>
+Question: What is a tree decomposition? Answer: A tree decomposition is a transformation of the original graph into a tree where each node in the tree consists of a set of variable.
+ <|endoftext|>
+Question: What is the example of the requirements of a tree decomp7osition? Answer: One of the examples is every variable in the original problem appears in at least one of the tree nodes.
+ <|endoftext|>
+Question: What is an axiom? Answer: An axiom is the sentencet that is taken as being given without being derived from other sentences.
+ <|endoftext|>
+Question: What is an inference? Answer: An inference is deriving new sentences from old.
+ <|endoftext|>
+Question: What requirement should inference obey? Answer:  Inference must obey the requirement that when one asks a question of the knowledge base <|endoftext|>
+Question: What is the wumpus world? Answer: The wumpus world is a cave consisting of rooms connected by passageways.
+ <|endoftext|>
+Question: What is semantics? Answer: Semantics are the meaning of sentences <|endoftext|>
+Question: What is grounding? Answer: Grounding is the connection between logical reasoning processes and the real environment in which the agent exists.
+ <|endoftext|>
+Question: What is theorem prooving? Answer: Theorem prooving is applying rules of inference directly to the sentences in our knowledge base to construct a proof of the desired sentence without consulting models. 
+ <|endoftext|>
+Question: When is a sentence valid? Answer: A sentence is valid if it is true in all models. 
+ <|endoftext|>
+Question: When is a sentence satisfiable? Answer: A sentence is satisfiable if it is true in <|endoftext|>
+Question: What is monotonicity? Answer: A monotonicity says that the set of entailed sentences can only increase as information is added to the knowledge base.
+ <|endoftext|>
+Question: What do the algorithm do in early termination? Answer: The algorithm detects whether the sentence must be true or false <|endoftext|>
+Question: What is a pure symbol? Answer: A pure symbol is a symbol that always appears with the ame “sign” in all clauses. 
+ <|endoftext|>
+Question: What is a unit clause? Answer: A unit clause was a clause with just one literal. 
+ <|endoftext|>
+Question: What is unit propagation? Answer: Unit propagation resembles the process of forward chaining with definite clauses <|endoftext|>
+Question: What are atemporal variables? Answer: Atemporal variables are symbols associated with permanent aspects of the world that do not need a time superscript.
+ <|endoftext|>
+Question: What is the representational frame problem? Answer: The representational frame problem is the specific manifestation of the frame problem.
+ <|endoftext|>
+Question: How is knowledge contained? Answer: Knowledge is contained in agents in the form of sentences in a knowledge representation language that are stored in a knowledge base.
+ <|endoftext|>
+Question: Why do intelligent agents need knowledge? Answer: Intelligent agents need knowledge about the world in order to reach good decisions.
+ <|endoftext|>
+Question: How is a representation language defined? Answer: A representation language is defined by its syntax <|endoftext|>
+Question: Why is the relationship of entailment between sentences is crucial? Answer: The relationship of entailment between sentences is crucial to our understanding ofreasoning.
+ <|endoftext|>
+Question: What is sound inference? Answer: Sound inference algorithms derive only sentences that are entailed.
+ <|endoftext|>
+Question: What are complete algorithms? Answer:  Complete algorithms derive all sentences that are entailed.
+ <|endoftext|>
+Question: What is propositional logic? Answer: Propositional logic is a simple language consisting of proposition symbols and logical connectives.
+ <|endoftext|>
+Question: What can propositional logic do? Answer: Propositional logic can handle propositions that are known to be true <|endoftext|>
+Question: What are inference rules? Answer: Inference rules are patterns of sound inference that can be used to find proofs. 
+ <|endoftext|>
+Question: What is the resolution rule? Answer: The resolution rule yields a complete inference algorithm for knowledge bases that are expressed in conjunctive normal form.
+ <|endoftext|>
+Question: What are the natural reasoning algorithms for knowledge bases in Horn form? Answer:  Forward chaining and backward chaining are very natural reasoning algorithms for knowledge bases in Horn form.
+ <|endoftext|>
+Question: What is a logical state estimation? Answer: Logical state estimation involves maintaining a logical sentence that describes the set of possible states consistent with the observation history. 
+ <|endoftext|>
+Question: What do each update step of logical state estimation require? Answer: Each update step requires inference using the transition model of the environment <|endoftext|>
+Question: How decisions within a logical agent can be made by SAT solving? Answer: It works by finding possible models specifying future action sequences that reach the goal.  
+ <|endoftext|>
+Question: Why does propositional logic do not scale to environments of unbounded size? Answer: This is because e it lacks the expressive power to deal concisely with time <|endoftext|>
+Question: How should knowledge representation languages be? Answer: Knowledge representation languages should be declarative <|endoftext|>
+Question: How does logic differs? Answer: Logics differ in their ontological commitments and epistemological commitments.
+ <|endoftext|>
+Question: What is the difference in propositional logic and first-order logic? Answer: While propositional logic commits only to the existence of facts <|endoftext|>
+Question: What is the similarity of propositional logic and first-order logic? Answer: Both propositional logic and first-order logic share a difficulty in representing vague propositions. 
+ <|endoftext|>
+Question: How does the difficulty in representing vague  propositions affect both  propositional logic and first-order logic? Answer: The difficulty limits their applicability in domains that require personal judgments <|endoftext|>
+Question: What does the syntax of first-order logic does? Answer: It adds terms to represent objects <|endoftext|>
+Question: What does a possible world Answer:  or model <|endoftext|>
+Question: When is an atomic sentence true? Answer: An atomic sentence is true only when the relation named by the predicate holds between the objects named by the terms. 
+ <|endoftext|>
+Question: What can extended interpretations do? Answer: Extended interpretations <|endoftext|>
+Question: What is the process of developing a knowledge base in first-order logic? Answer: Developing a knowledge base in first-order logic requires a careful process of analyzing the domain <|endoftext|>
+Question: What is AI? Answer: Artificial Intelligence (AI) is the part of computer science concerned with designing intelligent computer systems.
+ <|endoftext|>
+Question: What do the branches of AI have? Answer: NLP <|endoftext|>
+Question: What is the Turing Test? Answer: Alan Turing devised a test for intelligence called the Imitation Game in.
+ <|endoftext|>
+Question: Under what conditions can intelligence be proved to have passed the test? Answer: If <|endoftext|>
+Question: What capabilities would the AI need? Answer: Natural language processing <|endoftext|>
+Question: What are the cental goals of AI research? Answer: Reasoning <|endoftext|>
+Question: What is reasoning? Answer: The reasoning is the mental process of deriving logical conclusion and making predictions from available knowledge <|endoftext|>
+Question: What types of reasoning are there? Answer: Deductive <|endoftext|>
+Question: What is Deductive reasoning? Answer: Deductive reasoning is deducing new information from logically related known information.
+ <|endoftext|>
+Question: What is Inductive reasoning? Answer: Inductive reasoning is a form of reasoning to arrive at a conclusion using limited sets of facts by the process of generalization.
+ <|endoftext|>
+Question: What is Abductive reasoning? Answer: Abductive reasoning is a form of logical reasoning which starts with single or multiple observations then seeks to find the most likely explanation or conclusion for the observation.
+ <|endoftext|>
+Question: What is Common Sense? Answer: Common sense reasoning is an informal form of reasoning <|endoftext|>
+Question: How Intelligence applications should behave? Answer: Intelligence applications are expected to respond to stimulation consistent with traditional responses from humans <|endoftext|>
+Question: What three ways of thinking do we need to learn in artificial intelligence? Answer: Introspection <|endoftext|>
+Question: What is Itrospection? Answer: Trying to catch our own thoughts as they go by.
+ <|endoftext|>
+Question: What is psychological experiments? Answer: Observing a person in action.
+ <|endoftext|>
+Question: What is brain imaging? Answer: Observing the brain in action.
+ <|endoftext|>
+Question: What is rational behavior? Answer: Doing the right thing!
+ <|endoftext|>
+Question: What is the right thing? Answer: It is expected to maximize goal achievement <|endoftext|>
+Question: What are the advantages of studying AI as rational agent? Answer: It is more general than using logic only <|endoftext|>
+Question: What are the main roles that AI plays? Answer: Study the intelligent part concerned with humans. Represent those actions using computers.
+ <|endoftext|>
+Question: What is True AI? Answer: True A.I. can improve on past iterations <|endoftext|>
+Question: What do the currently popular approaches have? Answer: Currently popular approaches include statistical methods <|endoftext|>
+Question: What is the relationship among AI Answer:  ML <|endoftext|>
+Question: What are the advantages of AI? Answer: Reduces in human error <|endoftext|>
+Question: What are the disadvantages of AI? Answer: Cost overruns <|endoftext|>
+Question: What is knowledge? Answer: Knowledge is a collection of information about a domain that can be used to solve problems within a domain.
+ <|endoftext|>
+Question: What are the organization of konwledge? Answer: Wisdom <|endoftext|>
+Question: What is declarative knowledge? Answer: Declarative knowledge is to know about something. It includes concepts <|endoftext|>
+Question: What is procedural Knowledge? Answer: Procedural knowledge is a type of knowledge which is responsible for knowing how to do something.
+ <|endoftext|>
+Question: What is heuristic konwledge? Answer: Heuristic knowledge is rules of thumb based on previous experiences <|endoftext|>
+Question: What is structural knowledge? Answer: It describes relationships between various concepts and the relationship that exists between concepts or objects.
+ <|endoftext|>
+Question: What is Meta-knowledge? Answer: It is not specific to any single domain but aims to describe the structure of the data present in the knowledge systems.
+ <|endoftext|>
+Question: What is logical representation? Answer: Logical representation is a language that is free from ambiguity issue.
+ <|endoftext|>
+Question: What categories can logical representation be divided into? Answer: Propositional and predicate.
+ <|endoftext|>
+Question: What is proposition? Answer: It is a sentence that is either true or false.
+ <|endoftext|>
+Question: What is semantic network? Answer: A semantic network or net -graph structure is used to represent knowledge in patterns of interconnected nodes and arcs.
+ <|endoftext|>
+Question: What do the production rules consist of? Answer: IF(condition) and THEN(action).
+ <|endoftext|>
+Question: What are the advantages of production rule? Answer: The production rules are expressed in natural language. The production rules are expressed in natural language.
+ <|endoftext|>
+Question: What are the disadvantages of production rule? Answer: Production rule system does not exhibit any learning capabilities <|endoftext|>
+Question: What is Knowledge-based System? Answer: A knowledge-based system (KBS) is a form of artificial intelligence (AI) that aims to capture the knowledge of human experts to support decision-making.
+ <|endoftext|>
+Question: What is medical expert system? Answer: An expert system is a computer program that represents and reasons with knowledge of some specialist subject with a view to solving problems or giving advice.
+ <|endoftext|>
+Question: What do the typical tasks for expert system have? Answer: The interpretation of data <|endoftext|>
+Question: What do the complex decisions invovle? Answer: Complex decisions involve intricate combination of factual and heuristic knowledge.
+ <|endoftext|>
+Question: What do the structure of expert system reflect? Answer: The structure of expert systems reflect the knowledge engineers understanding of the methods of representing knowledge and of how to perform intelligent decision making tasks with the support of a computer based system.
+ <|endoftext|>
+Question: What is backward chaining? Answer: Backward chaining starts from the goal and works backward through inference rules to find the required facts that support the goal.
+ <|endoftext|>
+Question: What is the research strategy of backward chaining reasoning? Answer: Backward chaining reasoning applies a depth-first search strategy.
+ <|endoftext|>
+Question: What does the backward chaining apply to? Answer: It is suitable for diagnostic <|endoftext|>
+Question: What is forward chaining? Answer: Forward chaining starts from known facts and applies inference rule to extract more data unit it reaches to the goal.
+ <|endoftext|>
+Question: What is the research strategy of forward chaining reasoning? Answer: Forward chaining reasoning applies a breadth-first search strategy.
+ <|endoftext|>
+Question: What does the forward chaining apply to? Answer: It is suitable for the planning <|endoftext|>
+Question: What is knowledge engineering? Answer: The process of building an expert system is called knowledge engineering and is done by a knowledge engineer.
+ <|endoftext|>
+Question: What is knowledge engineer? Answer: The knowledge engineer is a human with a background in computer science and AI and he knows how to build expert systems.
+ <|endoftext|>
+Question: What is knowledge engineering? Answer: Knowledge engineering is the acquisition of knowledge from a human expert or any other source.
+ <|endoftext|>
+Question: What is Five-in-row system? Answer: Five-in-row system is normally is implemented as a board game.
+ <|endoftext|>
+Question: What is search? Answer: Search is a about exploring alternatives.
+ <|endoftext|>
+Question: What are the application of search? Answer: Route finding <|endoftext|>
+Question: What is category? Answer: Incremental formulation <|endoftext|>
+Question: What is incremental formulation? Answer: This problem involves operators that augment the state description <|endoftext|>
+Question: What is complete-state formulation? Answer: States are independent for each other.
+ <|endoftext|>
+Question: What is toy problrm? Answer: A toy problem is intended to illustrate or exercise various problem-solving methods.
+ <|endoftext|>
+Question: What is real-word problem? Answer: A real-world problem is one whose solutions people actually care about.
+ <|endoftext|>
+Question: What’re the conditions for searching? Answer: Observable <|endoftext|>
+Question: What is observable? Answer: You always know what’s going on currently.
+ <|endoftext|>
+Question: What is discrete? Answer: Given any state <|endoftext|>
+Question: What is known? Answer: The agent knows which states are reached by performing the corresponding action.
+ <|endoftext|>
+Question: What is deterministic? Answer: Each action has exactly one outcome.
+ <|endoftext|>
+Question: What are goodness of a search strategy? Answer: Completeness <|endoftext|>
+Question: How to formulate searching? Answer: States <|endoftext|>
+Question: What is states? Answer: The basic unit for searching.
+ <|endoftext|>
+Question: What is initial state? Answer: The state that the agent starts in.
+ <|endoftext|>
+Question: What is action? Answer: The operations that you can perform for the current state.
+ <|endoftext|>
+Question: What is transition model? Answer: The outcome of actions.
+ <|endoftext|>
+Question: What is goal test? Answer: Which determines whether a state is a goal state.
+ <|endoftext|>
+Question: What is path cost? Answer: Assign a numeric cost to each path.
+ <|endoftext|>
+Question: How to solve searching problems? Answer: A solution is an action sequence <|endoftext|>
+Question: What dose a graph consist of? Answer: Nodes and arcs.
+ <|endoftext|>
+Question: What dose the problem space consist of? Answer: A state space <|endoftext|>
+Question: What’s uninformed Searching? Answer: While searching you have no clue whether one non-goal state is better than any other.
+ <|endoftext|>
+Question: What is breadth-first search? Answer: Expand shallowest unexpanded node.
+ <|endoftext|>
+Question: What is fringe? Answer: Nodes waiting in a queue to be explored <|endoftext|>
+Question: Does breadth-first search always find a solution if one exists? Answer: Yes.
+ <|endoftext|>
+Question: Does breadth-first search always find the best (least-cost) solution? Answer: Yes <|endoftext|>
+Question: How long breadth-first search will take? Answer: 1+b+b^2+b^3+… +b^d (nodes until the solution)
+ <|endoftext|>
+Question: What is depth-first search? Answer: Expand deepest unexpanded node.
+ <|endoftext|>
+Question: Does depth-first search always find a solution if one exists? Answer: No: fails in infinite-depth spaces.
+ <|endoftext|>
+Question: How long depth-first search will take? Answer: O(b^m) with m=maximum depth
+ <|endoftext|>
+Question: Does depth-first search always find the best (least-cost) solution? Answer: No (It may find a non-optimal goal first).
+ <|endoftext|>
+Question: What is iterative deepening search? Answer: Run multiple DFS searches with increasing depth-limits.
+ <|endoftext|>
+Question: Does iterative deepening  search always find a solution if one exists? Answer: Yes.
+ <|endoftext|>
+Question: Does iterative deepening search always find the best (least-cost) solution? Answer: Only if path cost is a non-decreasing function of depth.
+ <|endoftext|>
+Question: How long iterative deepening search will take? Answer: b + (b+b^2) + .......(b+....b^d)  = O(b^d).
+ <|endoftext|>
+Question: What is uniform-cost search? Answer: Always expand the node on the fringe with minimum cost g(n).
+ <|endoftext|>
+Question: Does uniform-cost search always find a solution if one exists? Answer: Yes.
+ <|endoftext|>
+Question: Does uniform-cost search always find the best (least-cost) solution? Answer: Yes <|endoftext|>
+Question: How long uniform-cost search will take? Answer: of nodes with path cost ≤ cost of optimal solution.
+ <|endoftext|>
+Question: How much space does uniform-cost search take to complete the run? Answer: of nodes with path cost ≤ cost of optimal solution.
+ <|endoftext|>
+Question: How much space does iterative deepening search take to complete the run? Answer: O(bd)
+ <|endoftext|>
+Question: How much space does depth-first search take to complete the run? Answer: O(bm)
+ <|endoftext|>
+Question: How much space does breadth-first search take to complete the run? Answer: O(b^d) (keeps every node in memory <|endoftext|>
